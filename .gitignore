@@ -8,7 +8,6 @@
 *.obj
 *.iobj
 *.pch
-*.ipch
 *.pdb
 *.ipdb
 *.pgc
